@@ -315,9 +315,10 @@ No member of the Board or any committee of the Association or the Architectural 
 ## Creation of the Lien and Personal Obligation of Assessments.
 
 Each owner of any lot, by acceptance of a deed therefor, whether or not it shall be so expressed in such deed, is deemed to covenant and agree to pay to the Association:
-### annual regular assessments or charges.
-### special assessments for capital improvements, such assessments to be established and collected as hereinafter provided; and
-### limited assessments as hereinafter provided.
+
+a) annual regular assessments or charges.
+a) special assessments for capital improvements, such assessments to be established and collected as hereinafter provided; and
+a) limited assessments as hereinafter provided.
 
 If any of these assessments are not paid in a timely manner, then any and all unpaid assessments, together with interest, costs and reasonable attorneys' fees, shall be a charge on the land and shall be a continuing lien upon the property against which each such assessment is made.  Each such assessment, together with interest, costs and reasonable attorneys' fees, shall also be the personal obligation of the person who was the owner of such property at the time when the assessment fell due.    
 
