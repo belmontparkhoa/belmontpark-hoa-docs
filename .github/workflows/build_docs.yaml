@@ -1,0 +1,20 @@
+name: Build docs
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: create output dir
+        run: |
+          mkdir output  # create output dir
+      - uses: docker://pandoc/latex:3.8
+        with:
+          args: --from=markdown  -F pandoc-crossref -N --toc=true --toc-depth=2 -s -o output/ccrs.pdf docs/ccrs.md
+      - uses: actions/upload-artifact@v7
+        with:
+          name: ccrs
+          path: output/ccrs.pdf
+          archive: false
