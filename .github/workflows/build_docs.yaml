@@ -13,8 +13,16 @@ jobs:
       - uses: docker://pandoc/latex:3.8
         with:
           args: --from=markdown  -F pandoc-crossref -N --toc=true --toc-depth=2 -s -o output/ccrs.pdf docs/ccrs.md
+      - uses: docker://pandoc/latex:3.8
+        with:
+          args: --from=markdown  -F pandoc-crossref -N --toc=true --toc-depth=2 -s -o output/bylaws.pdf docs/bylaws.md
       - uses: actions/upload-artifact@v7
         with:
           name: ccrs
           path: output/ccrs.pdf
+          archive: false
+      - uses: actions/upload-artifact@v7
+        with:
+          name: bylaws
+          path: output/bylaws.pdf
           archive: false
