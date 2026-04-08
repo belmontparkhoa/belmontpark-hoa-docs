@@ -21,7 +21,7 @@ SUBDIVISION – PHASE 1 recorded as Instrument No. 8954299
 #. SECOND AMENDMENT TO THE DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS FOR BELMONT
 PARK SUBDIVISION – Phases 1, 2, & 3 recorded as Instrument No. 108127704
 
-THIS DECLARATION is made effective on —-- day of —-- 2026 by Belmont Park
+THIS DECLARATION is made effective on _____ day of ______ 20__ by Belmont Park
 Homeowners Association, an Idaho corporation.
 
 NOW, THEREFORE, the Association hereby declares that the Property, and each lot,
@@ -898,3 +898,52 @@ or consented to such amendment. Such amendment may add to and increase the
 covenants, conditions, restrictions, and easements applicable to the Real
 Property but shall not unreasonably interfere with the allowed uses of such Real
 Property that existed prior to the said amendment.
+
+|
+|
+|      IN WITNESS WHEREOF, the undersigned, being the President and Secretary of the
+ Belmont Park Homeowner's Association, Inc., have hereunto set their hand and seal
+ this ____ day of ___________, 20__
+
+\hfill
+\begin{tabular}{l}
+\\
+BELMONT PARK HOMEOWNER'S ASSOCIATION, INC.\\
+\\
+\\
+\\
+\hline
+By Howard Hedrick, President, \& \\
+\\
+\\
+\hline
+By Karen Kimber, Secretary\\
+\end{tabular}
+
+\begin{tabular}{l l}
+\\
+\\
+STATE OF IDAHO & )\\
+ & )ss.\\
+County of Ada & )\\
+\end{tabular}
+
+|      On this ____ day of ___________, 20__, before me a notary public in and for said state,
+ personally appeared Howard Hedrick, known or identified to me be the President of the
+ BELMONT PARK HOMEOWNER'S ASSOCIATION, INC., an Idaho non-profit corporation, and the person
+ who executed this instrument on behalf of said corporation, and acknowledged to me that he
+ executed the same on behalf of said corporation.
+
+|      IN WITNESS WHEREOF, I have hereunto set my hand and affixed by official seal the day and year
+in this certificate first above written.
+
+\hfill
+\begin{tabular}{l}
+\\
+\\
+\\
+\hline
+Notary Public for Idaho\\
+Residing at \rule{4cm}{0.4pt}, Idaho\\
+My Commission Expires: \rule{3cm}{0.4pt}\\
+\end{tabular}
