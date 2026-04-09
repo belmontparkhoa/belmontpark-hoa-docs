@@ -1,3 +1,15 @@
+---
+title: DECLARATION OF CONVENANTS, CONDITIONS, AND RESTRICTIONS FOR BELMONT PARK SUBDIVISION. Phases 1, 2, & 3
+header-includes:
+  - |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \fancyhead{}
+    \renewcommand{\headrulewidth}{0pt}
+    \fancyfoot[R]{\thepage}
+    \fancyfoot[L]{BELMONT PARK DECLARATION OF\\COVENANTS, CONDITIONS, AND RESTRICTIONS\\FOR BELMONT PARK SUBDIVISION (Phases 1, 2, \& 3)}
+---
 # CCR’s {-}
 
 THIS DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS FOR THE BELMONT PARK
