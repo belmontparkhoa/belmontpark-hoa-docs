@@ -1,5 +1,10 @@
 ---
-title: DECLARATION OF CONVENANTS, CONDITIONS, AND RESTRICTIONS FOR BELMONT PARK SUBDIVISION. Phases 1, 2, & 3
+title: |
+   | DECLARATION
+   | OF
+   | CONVENANTS, CONDITIONS, AND RESTRICTIONS
+   | FOR
+   | BELMONT PARK SUBDIVISION. Phases 1, 2, & 3
 header-includes:
   - |
     \usepackage{fancyhdr}
@@ -32,6 +37,14 @@ SUBDIVISION – PHASE 1 recorded as Instrument No. 8954299
 #. BELMONT PARK SUBDIVISION – PHASE 3 recorded as Instrument No. 9040426
 #. SECOND AMENDMENT TO THE DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS FOR BELMONT
 PARK SUBDIVISION – Phases 1, 2, & 3 recorded as Instrument No. 108127704
+
+ARTICLE IX Section 9.4 Term and Amendment of the original declaration,
+Instrument No. 8928247 on June 19, 1989, stated that the convenants and
+restrictions shall be extended for successive ten-year periods  “. . . . unless
+an instrument signed by a seventy-five percent (75%) of the then homeowners of
+the Lots has been recorded agreeing to change said convenants in whole or in
+part.”  This Declaration is the document replacing the original declaration and
+amendments wholly and entirely
 
 THIS DECLARATION is made effective on _____ day of ______ 20__ by Belmont Park
 Homeowners Association, an Idaho corporation.
