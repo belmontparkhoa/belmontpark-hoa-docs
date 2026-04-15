@@ -796,31 +796,31 @@ Board.  
 Inspection of work and correction of defects therein shall proceed as follows: 
 
 #. Within sixty (60) days thereafter, the committee or its duly authorized
-#representative may inspect such improvement.  If the committee finds that such
-#work was not done in substantial compliance with the approved plans, it shall
-#notify the owner in writing of such noncompliance within such sixty (60) day
-#period, specifying the particular noncompliance, and shall require the owner to
-#remedy the same.
+representative may inspect such improvement.  If the committee finds that such
+work was not done in substantial compliance with the approved plans, it shall
+notify the owner in writing of such noncompliance within such sixty (60) day
+period, specifying the particular noncompliance, and shall require the owner to
+remedy the same.
 
 #. If upon the expiration of thirty (30) days from the date of such notification
-#or any longer time the committee determines to be reasonable, the owner shall
-#have failed to remedy such noncompliance, the committee shall notify the
-#Association Board in writing of such failure.  Upon notice and hearing, as
-#provided in the Bylaws, the Board shall determine whether there is a
-#noncompliance and, if so, the nature thereof and the estimated cost of
-#correcting or removing the same.  If a noncompliance exists, the owner shall
-#remedy or remove the same within a period of not more than forty-five (45) days
-#from the date of the announcement of the Board ruling unless the Board
-#specifies a longer time as reasonable.  If the owner does not comply with the
-#Board ruling within such period, the Board, at its option, may either levy a
-#Limited Assessments against the homeowner or pursue legal action, including but
-#not limited to placing a lien on said property not to exceed the estimated cost
-#of correcting the noncompliance plus accrued legal expenses.
+or any longer time the committee determines to be reasonable, the owner shall
+have failed to remedy such noncompliance, the committee shall notify the
+Association Board in writing of such failure.  Upon notice and hearing, as
+provided in the Bylaws, the Board shall determine whether there is a
+noncompliance and, if so, the nature thereof and the estimated cost of
+correcting or removing the same.  If a noncompliance exists, the owner shall
+remedy or remove the same within a period of not more than forty-five (45) days
+from the date of the announcement of the Board ruling unless the Board
+specifies a longer time as reasonable.  If the owner does not comply with the
+Board ruling within such period, the Board, at its option, may either levy a
+Limited Assessments against the homeowner or pursue legal action, including but
+not limited to placing a lien on said property not to exceed the estimated cost
+of correcting the noncompliance plus accrued legal expenses.
 
 #. If for any reason the committee fails to notify the owner of any
-#noncompliance within sixty (60) days after receipt of the written notice of
-#compliance from the owner, the improvement shall be deemed to be in accordance
-#with the approved plans.
+noncompliance within sixty (60) days after receipt of the written notice of
+compliance from the owner, the improvement shall be deemed to be in accordance
+with the approved plans.
 
 ## Nonliability of Committee Members.
 
