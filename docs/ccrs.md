@@ -942,7 +942,7 @@ By Howard Hedrick, President, \& \\
 \\
 \\
 \hline
-By Karen Kimber, Secretary\\
+By Thomas Tomlinson, Vice President\\
 \end{tabular}
 
 \begin{tabular}{l l}
