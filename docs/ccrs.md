@@ -46,7 +46,7 @@ the Lots has been recorded agreeing to change said convenants in whole or in
 part.”  This Declaration is the document replacing the original declaration and
 amendments wholly and entirely
 
-THIS DECLARATION is made effective on _____ day of ______ 20__ by Belmont Park
+THIS DECLARATION is made effective on 16 day of April 2026 by Belmont Park
 Homeowners Association, an Idaho corporation.
 
 NOW, THEREFORE, the Association hereby declares that the Property, and each lot,
@@ -928,7 +928,7 @@ Property that existed prior to the said amendment.
 |
 |      IN WITNESS WHEREOF, the undersigned, being the President and Secretary of the
  Belmont Park Homeowner's Association, Inc., have hereunto set their hand and seal
- this ____ day of ___________, 20__
+ this 16 day of April, 2026
 
 \hfill
 \begin{tabular}{l}
